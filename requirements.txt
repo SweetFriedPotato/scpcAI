@@ -1,0 +1,12 @@
+torch
+torchvision
+pandas
+transformers
+Pillow
+tqdm
+accelerate
+datasets 
+albumentations 
+numpy
+scipy 
+bitsandbytes 
